@@ -6,8 +6,8 @@ import schedule # To schedule bot to run specific times
 import time # To add delays
 
 # Insert your Instagram username, as well as password below
-username = "your_username_here"
-password = "your_password_here"
+username = "smash_errr"
+password = "Ashu1200@#"
 
 # Function to handle all the actions the bot will take
 def bot():
